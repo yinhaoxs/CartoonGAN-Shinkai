@@ -40,12 +40,10 @@ python src/test_code/cartoonize.py
 # 模型推理
 python demo.py
 # 效果预览
-![](images/797127238db04cccbaf95af1e903d3f6_th.jpg)
-![](images/e6cf80ead2d84ded9b822858b83608cc_th.jpg)
-![](results/797127238db04cccbaf95af1e903d3f6_th.jpg)
-![](results/e6cf80ead2d84ded9b822858b83608cc_th.jpg)
+<img src="images/797127238db04cccbaf95af1e903d3f6_th.jpg" width="1000px"/>
+<img results/797127238db04cccbaf95af1e903d3f6_th.jpg" width="1000px"/>
+<img images/e6cf80ead2d84ded9b822858b83608cc_th.jpg" width="1000px"/>
+<img results/e6cf80ead2d84ded9b822858b83608cc_th.jpg" width="1000px"/>
 ```
-
-
 
 
